@@ -1,4 +1,4 @@
-##Maven Market BI Dashboard
+## Maven Market BI Dashboard
 **Project Overview** <br>
 This project showcases an end-to-end Business Intelligence solution developed using Power BI on the Maven Market retail dataset.<br>
 The dashboard transforms raw transactional data into actionable business insights through:<br>
