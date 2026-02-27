@@ -2,7 +2,7 @@ PART 1 : CONNECTING AND SHAPING THE DATA
 
 
 1) Update your Power BI options and settings as follows: 
-
+         
 Deselect the "Autodetect new relationships after data is loaded" option in the Data Load tab
 Make sure that Locale for import is set to "English (United States)" in the Regional Settings tab
 
@@ -245,3 +245,4 @@ Find 2-3 additional insights from the Topline Performance tab and add new bookma
 
 
 10) Get creative! Practice creating new visuals, pages, or bookmarks to continue exploring the data!
+
